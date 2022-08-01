@@ -1,0 +1,35 @@
+
+body{
+   background:#6F9CEB;
+}
+section{
+    background: #0FFF95;
+}
+h1{
+    color:darkseagreen
+}
+p{
+    color: brown;
+}
+h2{
+    color: rgb(32, 56, 192)
+}
+   
+h3{
+    color:darkorange
+}
+p{
+    color:rgba(17, 17, 17, 0.933)
+}
+.hotpink-header{
+    color:hotpink;
+}
+#top{
+    background:rgb(21, 13, 164)
+}
+nav a {
+color:chartreuse;
+}
+a {color:lightseagreen;
+
+}
