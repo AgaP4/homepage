@@ -11,15 +11,12 @@ h1{
 p{
     color: brown;
 }
-h2{
-    color: rgb(32, 56, 192)
-}
    
-h3{
-    color:darkorange
-
+.h3-header{
+    color:rgb(220, 19, 193);
+}
 .hotpink-header{
-    color:hotpink;
+    color:brown;
 }
 #top{
     background:rgb(21, 13, 164)
@@ -29,4 +26,10 @@ color:chartreuse;
 }
 a {color:lightseagreen;
 
+}
+h2{
+    color:darkgreen;
+}
+.blue-header{
+color:magenta;
 }
